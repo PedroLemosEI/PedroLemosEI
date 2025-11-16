@@ -37,12 +37,7 @@ Bem-vindo ao meu GitHub! Sou apaixonado por tecnologia e pela construção de so
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 📱 Android
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="70" height="70"/>
+![Kotlin](https://img.shields.io/badge/Kotlin-003B57?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ## 🔗 Extra Tools, Services and Frameworks
 
@@ -56,9 +51,7 @@ Bem-vindo ao meu GitHub! Sou apaixonado por tecnologia e pela construção de so
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" style="background:white; padding:6px; border-radius:8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" />
 </p>
 
 
