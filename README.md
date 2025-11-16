@@ -54,6 +54,12 @@ Welcome to my GitHub! I'm passionate about technology and about building efficie
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" />
 </p>
 
+## 📫 Reach out to me 
+
+[LinkedIn](https://www.linkedin.com/in/pedro-lemos-118a57238/)
+[Portfolio](https://pedrolemos.dev)
+
+
 
 
 
