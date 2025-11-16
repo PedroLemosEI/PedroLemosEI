@@ -1,21 +1,21 @@
 ## Hi 👋, I'm Pedro Lemos
 
-Software Developer • Cloud Enthusiast • Data & Web Developer
+Software Developer • Cloud Enthusiast
 
-Bem-vindo ao meu GitHub! Sou apaixonado por tecnologia e pela construção de soluções eficientes, escaláveis e seguras. A minha formação em Cibersegurança, Redes e Sistemas (CTeSP) e a minha Licenciatura em Engenharia Informática deram-me uma base sólida que combina desenvolvimento de software, administração de sistemas, redes, cloud e análise de dados.
+Welcome to my GitHub! I'm passionate about technology and about building efficient, scalable, and secure solutions. My background in Cybersecurity, Networks and Systems (CTeSP) and my Bachelor’s Degree in Software Engineering have given me a solid foundation that combines software development, systems administration, networking, cloud technologies, and data analysis.
 
-## 🚀 Educação
+## 🚀 Education (PT_pt)
 
-🎓 CTeSP em Cibersegurança, Redes e Sistemas
-🎓 Licenciatura em Engenharia Informática
+-🎓ESTG -> CTeSP em Cibersegurança, Redes e Sistemas
+-🎓ESTG -> Licenciatura em Engenharia Informática
 
 ## 💡 Interesses principais:
 
-- Desenvolvimento Web
-- Cloud & Infraestrutura
+- Web Development
+- Cloud & Infraestruture
 - Data Analysis
 
-...Sou motivado pela melhoria contínua, boas práticas, automação e eficiência. Gosto de enfrentar desafios técnicos e explorar novas tecnologias.
+... I'm driven by continuous improvement, best practices, automation, and efficiency. I enjoy tackling technical challenges and exploring new technologies.
 
 ### ⚙ Back End  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
