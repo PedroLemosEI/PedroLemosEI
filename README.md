@@ -37,7 +37,7 @@ Welcome to my GitHub! I'm passionate about technology and about building efficie
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 📱 Android
-![Kotlin](https://img.shields.io/badge/Kotlin-003B57?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-512BD4?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ## 🔗 Extra Tools, Services and Frameworks
 
