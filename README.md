@@ -2,12 +2,12 @@
 
 Software Developer • Cloud Enthusiast
 
-Welcome to my GitHub! I'm passionate about technology and about building efficient, scalable, and secure solutions. My background in Cybersecurity, Networks and Systems (CTeSP) and my Bachelor’s Degree in Software Engineering have given me a solid foundation that combines software development, systems administration, networking, cloud technologies, and data analysis.
+Welcome to my GitHub! I'm passionate about technology and about building efficient, scalable, and secure solutions. My background in Cybersecurity, Networks and Systems (Level 5 Higher Education Diploma) and my Bachelor’s Degree in Software/Computer Engineering have given me a solid foundation that combines software development, systems administration, networking, cloud technologies, and data analysis.
 
-## 🚀 Education (PT_pt)
+## 🚀 Education
 
-🎓ESTG - CTeSP em Cibersegurança, Redes e Sistemas
--> 🎓 ESTG - Licenciatura em Engenharia Informática
+🎓ESTG - Level 5 Higher Education Diploma in Cybersecurity, Networks and Systems
+-> 🎓 ESTG - Bachelor’s Degree in Computer Engineering
 
 ## 💡 Interesses principais:
 
