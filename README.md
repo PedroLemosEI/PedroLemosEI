@@ -6,8 +6,8 @@ Welcome to my GitHub! I'm passionate about technology and about building efficie
 
 ## 🚀 Education (PT_pt)
 
--🎓ESTG -> CTeSP em Cibersegurança, Redes e Sistemas
--🎓ESTG -> Licenciatura em Engenharia Informática
+🎓ESTG - CTeSP em Cibersegurança, Redes e Sistemas
+-> 🎓 ESTG - Licenciatura em Engenharia Informática
 
 ## 💡 Interesses principais:
 
