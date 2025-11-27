@@ -56,7 +56,7 @@ Welcome to my GitHub! I'm passionate about technology and about building efficie
 
 ## 📫 Reach out to me 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lemos-118a57238/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p3drol3mos)
 [![Portfolio_Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://pedrolemos.dev)
 
 
