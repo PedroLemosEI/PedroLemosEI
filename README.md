@@ -9,11 +9,10 @@ Welcome to my GitHub! I'm passionate about technology and about building efficie
 🎓ESTG - Level 5 Higher Education Diploma in Cybersecurity, Networks and Systems
 -> 🎓 ESTG - Bachelor’s Degree in Computer Engineering
 
-## 💡 Interesses principais:
+## 💡 Main Interests:
 
 - Web Development
 - Cloud & Infraestruture
-- Data Analysis
 
 ... I'm driven by continuous improvement, best practices, automation, and efficiency. I enjoy tackling technical challenges and exploring new technologies.
 
